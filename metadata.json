@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Storybook",
+  "description": "Generate fully illustrated and narrated digital storybooks using Gemini's multi-agent architecture.",
+  "requestFramePermissions": []
+}
